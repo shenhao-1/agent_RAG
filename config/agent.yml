@@ -1,0 +1,3 @@
+external_data_path: data/external/records.csv
+#yaml 格式 像是字典类的 来管理配置项
+# 前面是 K 后面是 V
