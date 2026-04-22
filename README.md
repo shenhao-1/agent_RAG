@@ -1,38 +1,33 @@
-# Project Title
+# Project Overview
 
-## Description
+This README provides comprehensive documentation for the Agent RAG project.
 
-A comprehensive documentation for the project. This section should provide an overview of what the project is about, its purpose, and its functionality.
+## Project Components
 
-## Installation
+### 1. **Component 1**
+   - Description: Brief description of Component 1.
 
-Instructions on how to install and set up the project. Include any prerequisites or dependencies that need to be installed before running the project.
+### 2. **Component 2**
+   - Description: Brief description of Component 2.
 
-### Example
+### 3. **Component 3**
+   - Description: Brief description of Component 3.
 
-```bash
-# install dependencies
-pip install -r requirements.txt
-```
+## Setup Instructions
+
+To set up the project, follow these steps:
+1. Clone the repository: `git clone https://github.com/shenhao-1/agent_RAG.git`
+2. Install dependencies: `npm install`
+3. Run the project: `npm start`
 
 ## Usage
 
-Details on how to use the project once it is set up. Include code examples or screenshots if necessary.
-
-## Features
-
-- Feature 1: Description
-- Feature 2: Description
-- Feature 3: Description
+Provide usage examples here.
 
 ## Contributing
 
-Guidelines for contributing to the project. Include a section on code style, testing, and submission of pull requests.
+For those interested in contributing, please follow the guidelines in CONTRIBUTING.md.
 
 ## License
 
-State the license under which the project is available. For example, MIT License.
-
-## Contact
-
-Provide contact information for project maintainers or links to issue trackers for questions or feedback.
+This project is licensed under the MIT License.
